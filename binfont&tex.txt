@@ -1,0 +1,10 @@
+file                         tex    pixel     size tex  
+ammunation_hel12x12          260    y
+ammunation_hel16x16                
+ammunation_Sten15x15         259    n
+IPhone_Hel_14x14             246    n         256x256
+IPhone_Hel_16x16             247    n         512x512
+IPhone_Hel_20x20             248    n         256x256
+IPhone_Osaka_25x25           249    n         256x256
+Osaka_30x30                  250    n
+PSP_Hel12x12                 261    n         512x512
