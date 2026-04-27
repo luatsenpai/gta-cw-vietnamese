@@ -1,0 +1,26 @@
+[
+  {
+    "name": "gtafont.bin",
+    "rom_wad_offset": "0x397600",
+    "rom_absolute_offset": "0x944a00",
+    "size": 19247,
+    "sha1": "f90ec6157651382877f5d1b1d556361a07caf3ce",
+    "first64_hex": "0100de060302f81b0202fa1b0402fb1b0802fe1b0602051c08020a1c0702111c0202171c0402181c04021b1c07021e1c0602241c0202291c05022a1c03022e1c"
+  },
+  {
+    "name": "pricedown16x16.bin",
+    "rom_wad_offset": "0x775200",
+    "rom_absolute_offset": "0xd22600",
+    "size": 3834,
+    "sha1": "30bc750768ca623b03ff59f7cbe5a02387a30ad1",
+    "first64_hex": "0200a6000402b0050503b6050903c6050e03de050b0312060e033a060c036e0605039a060603a6060603ba060703ce060b03e006050208070702140705022607"
+  },
+  {
+    "name": "helv_16x16.bin",
+    "rom_wad_offset": "0x480400",
+    "rom_absolute_offset": "0xa2d800",
+    "size": 14350,
+    "sha1": "70fa4ea4bc9a3aba7e51e00fad378390c8ae65f3",
+    "first64_hex": "0200cf010702f80e0302040f0602080f0b02120f0802260f0c02340f08024a0f0302580f04025c0f0402620f0702680f0702740f0302800f0602840f03028e0f"
+  }
+]
